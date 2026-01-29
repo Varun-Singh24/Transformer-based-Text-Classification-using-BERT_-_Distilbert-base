@@ -1,6 +1,6 @@
 # Transformer-based Text Classification using BERT, DistilBERT & RoBERTa
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
 ![NLP](https://img.shields.io/badge/NLP-Text%20Classification-green)
